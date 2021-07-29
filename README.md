@@ -3,7 +3,7 @@ A copy of a version of Roblox released on 28/07/2021 and copies of HTTP requests
 
 The most likely way that you are going to get this setup is through your own webserver (likely won't be able to get this hosted locally).
 
-Please note that I've not managed to make this work successfully yet, I'd highly advise users to experiment with making this work themselves.
+Please note that I've not managed to make this work successfully yet, I'd highly advise users to experiment with making this work themselves (I was receiving error 0x80072F0D)
 
 The ClientSettingsCDN folder is everything that it should grab from clientsettingscdn.roblox.com, SetupRBXCDN is everything that it should grab from setup.rbxcdn.com. Roblox Player is an installation of Roblox (I will also have the executable for installing Roblox somewhere).
 
