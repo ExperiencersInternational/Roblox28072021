@@ -1,5 +1,7 @@
 # Roblox28072021
-A copy of a version of Roblox released on 28/07/2021 and copies of HTTP requests that VirusTotal detects the installer executable makes.
+A copy of a version of Roblox released on 28/07/2021 and copies of HTTP requests that VirusTotal detects the installer executable makes. I made this project simply to see if it's possible for older clients to play games without needing to update Roblox in the future.
+
+The most likely way that you are going to get this setup is through your own webserver (likely won't be able to get this hosted locally).
 
 Please note that I've not managed to make this work successfully yet, I'd highly advise users to experiment with making this work themselves.
 
